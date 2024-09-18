@@ -1,4 +1,5 @@
-#Desafío 2 - Landing Page con Css Básico
+# Desafío 2 - Landing Page con Css Básico
+*Creado para visualizar en pantalla con resolución de 1920px*
 Requerimientos
 Crear un landing page visualmente como una tienda online, utilizando HTML y CSS, en esta ocación se realizó con tablas, ya que más adelante se enseñará flexbox, grid y columnas.
 
